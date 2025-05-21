@@ -18,4 +18,4 @@ Gabriel Hombris - 566553
 
 ## Links
 - [Repositório no GitHub](https://github.com/gHombris/checkpoint03-flexbox)
-- [Site no GitHub Pages]()
+- [Site no GitHub Pages](https://ghombris.github.io/checkpoint03-flexbox/)
