@@ -1,7 +1,7 @@
 # Vinharia Agnello - CheckPoint 03
 
 ## Descrição do Projeto
-Desenvolvimento de uma página única inspirada na Vinharia Agnello, aplicando técnicas de Flexbox e efeitos visuais com pseudo-classes e transformações CSS para criar um layout interativo e moderno.
+Criação de uma landing page exclusiva para a Vinharia Agnello, aplicando técnicas de Flexbox e efeitos visuais com pseudo-classes e transformações CSS para criar um layout interativo e moderno.
 
 ## Recursos Aplicados
 - **Flexbox**:  
@@ -13,7 +13,7 @@ Desenvolvimento de uma página única inspirada na Vinharia Agnello, aplicando t
 - **Transformações CSS**:  
   Foram aplicadas transformações como `scale`, `translateY` e `rotate` em elementos interativos para dar dinamismo ao layout quando o usuário passa o mouse sobre eles.
 
-## Participantes 
+## Participante
 Gabriel Hombris - 566553
 
 ## Links
