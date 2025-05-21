@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treino1", "treino1\treino1.csproj", "{F5729292-9A3A-2349-C88A-382F5850FCFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aprender c#", "aprender c#", "{898EDDE8-68FA-6563-778E-57ADCC1EBF0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treino1", "aprender c#\treino1\treino1.csproj", "{4FA50979-109E-E4AF-7AE9-1FB3BE194393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5729292-9A3A-2349-C88A-382F5850FCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5729292-9A3A-2349-C88A-382F5850FCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5729292-9A3A-2349-C88A-382F5850FCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5729292-9A3A-2349-C88A-382F5850FCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA50979-109E-E4AF-7AE9-1FB3BE194393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA50979-109E-E4AF-7AE9-1FB3BE194393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA50979-109E-E4AF-7AE9-1FB3BE194393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA50979-109E-E4AF-7AE9-1FB3BE194393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4FA50979-109E-E4AF-7AE9-1FB3BE194393} = {898EDDE8-68FA-6563-778E-57ADCC1EBF0D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD74F0BC-8BEB-44F9-9409-B8813683297A}
+	EndGlobalSection
+EndGlobal
